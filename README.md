@@ -1,6 +1,6 @@
 # :octocat: Note Keeping App using `React`
 
-The Website is a replia of Google keep app! 
+The Website is a replia of `Google keep` app! 
 
 <hr />
 
