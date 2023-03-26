@@ -35,7 +35,7 @@ cd Blog_Website_Without_Database
 npm i
 ```
 
-### :octocat: Example prewview of website:
+### :octocat: Example preview of website:
 ![Screenshot 2023-03-26 194956](https://user-images.githubusercontent.com/39629707/227782072-1321dd57-b53a-4657-bf2f-e6bf9bdc311e.png)
 
 
